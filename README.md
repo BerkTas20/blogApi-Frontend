@@ -22,16 +22,9 @@ The app will be available at:
 
 http://localhost:5173
 
-
-src/
-├── api/                # API client & endpoints
-├── components/         # Reusable UI components
-├── pages/              # Page-level components
-│   ├── PostsPage.tsx
-│   ├── PostDetailPage.tsx
-│   ├── NewPostPage.tsx
-│   └── LoginPage.tsx
-├── utils/              # Helpers (category colors, date utils)
-├── types/              # TypeScript DTOs
-├── styles/             # Global styles (index.css)
-└── main.tsx
+-Download backend : 
+-Open in the editor (example: intellij)
+-Start project
+-Download this front-end project
+-start front end project.
+-enter this url http://localhost:5173/ in browser
