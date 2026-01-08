@@ -17,7 +17,6 @@ VITE_API_BASE_URL=http://localhost:8090/api/v1
 3️⃣ Run the development server
 npm run dev
 
-
 The app will be available at:
 
 http://localhost:5173
